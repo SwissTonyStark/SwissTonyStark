@@ -20,10 +20,18 @@ I'm a software engineer at Noser Engineering with a Master's degree in AI and De
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-<!-- Add more badges of languages and tools from https://shields.io/ -->
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
 
+<!-- Add more badges of languages and tools from https://shields.io/ -->
+<!--
 ### My GitHub Stats:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SwissTonyStark&show_icons=true&theme=default)
 
+-->
 
