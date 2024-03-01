@@ -14,7 +14,7 @@ I'm a software engineer at Noser Engineering with a Master's degree in AI and De
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-PolFernández-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[your-linkedin-URL](https://www.linkedin.com/in/polfernandezblanquez/)](https://www.linkedin.com/in/polfernandezblanquez/))]([[your-linkedin-URL](https://www.linkedin.com/in/polfernandezblanquez/)](https://www.linkedin.com/in/polfernandezblanquez/))
+[![Linkedin Badge](https://img.shields.io/badge/-PolFernández-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/polfernandezblanquez/)
 
 ### Languages and Tools:
 
