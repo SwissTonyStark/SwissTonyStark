@@ -1,37 +1,34 @@
-# 👋 Hi there, I'm Pol Fernández!
+# Hi, I'm SwissTonyStark 👋
 
-## 🛠️ AI Engineer | 🤖 AI Enthusiast | 🎓 MSc in AI and Deep Learning | 🌟 Driven by Innovation
+AI engineer working on agents and local models, based in Switzerland. MSc in AI and Deep Learning.
 
-I'm a software engineer at Noser Engineering with a Master's degree in AI and Deep Learning from the Universitat Politècnica de Catalunya (UPC). Passionate about leveraging technology to build innovative solutions that make a positive impact.
+I build **local-first AI tooling**: assistants that run on my own hardware, talk to my own services and don't depend on a paid API.
 
-### About Me
+## What I'm working on
 
-- 🔭 I’m currently working on expanding my knowledge in **Deep Learning and AI technologies**.
-- 🌱 I’m on a mission to apply cutting-edge technology to improve lives in disadvantaged sectors.
-- 💡 Known for my creativity, capacity for teamwork, and leadership that drives projects towards success.
-- 🎯 Constantly seeking opportunities that allow for professional and personal growth.
-- 💬 Let's talk about **AI, technology, and how we can change the world together**.
+- 🤖 A self-hosted personal assistant (voice, memory, tools over MCP) running on a home lab.
+- 🧠 Small local models for everyday tasks: transcription, retrieval, classification.
+- 🔍 Taking things apart to see how they work: reverse engineering, protocols, firmware, low-level systems.
+- 🏠 Home automation and a 3D printer that mostly behave.
 
-### Connect with me:
+## Public projects
 
-[![Linkedin Badge](https://img.shields.io/badge/-PolFernández-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/polfernandezblanquez/)
+| Repo | What it is |
+|---|---|
+| [aurora](https://github.com/SwissTonyStark/aurora) | Local RGB controller for my PC: clickable case layout and scenes |
+| [swiss-job-finder](https://github.com/SwissTonyStark/swiss-job-finder) | AI-powered job search for people who want to work in Switzerland |
+| [focusfeed](https://github.com/SwissTonyStark/focusfeed) | Next.js feed that scores articles with AI (0-100 ROI) |
+| [AIProductivityAgent](https://github.com/SwissTonyStark/AIProductivityAgent) | My personal agentic setup on Claude: playbook, skills, subagents, templates |
+| [carrier-sales-middleware](https://github.com/SwissTonyStark/carrier-sales-middleware) | FastAPI middleware between a voice agent and a legacy TMS |
 
-### Languages and Tools:
+Most of what I build day to day lives in private repos.
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)](https://www.docker.com/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)](https://reactjs.org/)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://www.oracle.com/java/)
-[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)](https://www.openai.com/)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)
+## Tools
 
-<!-- Add more badges of languages and tools from https://shields.io/ -->
-<!--
-### My GitHub Stats:
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SwissTonyStark&show_icons=true&theme=default)
-
--->
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=Proxmox&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
