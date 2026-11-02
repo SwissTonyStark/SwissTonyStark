@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Pol Fernández!
 
-## 🛠️ Software Engineer | 🤖 AI Enthusiast | 🎓 MSc in AI and Deep Learning | 🌟 Driven by Innovation
+## 🛠️ AI Engineer | 🤖 AI Enthusiast | 🎓 MSc in AI and Deep Learning | 🌟 Driven by Innovation
 
 I'm a software engineer at Noser Engineering with a Master's degree in AI and Deep Learning from the Universitat Politècnica de Catalunya (UPC). Passionate about leveraging technology to build innovative solutions that make a positive impact.
 
